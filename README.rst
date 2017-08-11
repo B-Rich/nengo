@@ -72,6 +72,10 @@ Documentation
 Usage and API documentation can be found at
 `<https://pythonhosted.org/nengo/>`_.
 
+To build the documentation yourself, `follow the instructions in the Developer
+Guide
+<https://pythonhosted.org/nengo/contributing.html#how-to-build-the-documentation>`_.
+
 Development
 ===========
 
